@@ -1,0 +1,10 @@
+E:\Programming\2course\Graphics\LastLab\LastLab\bin\Debug\LastLab.exe.config
+E:\Programming\2course\Graphics\LastLab\LastLab\bin\Debug\LastLab.exe
+E:\Programming\2course\Graphics\LastLab\LastLab\bin\Debug\LastLab.pdb
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.csprojAssemblyReference.cache
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.Form1.resources
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.Properties.Resources.resources
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.csproj.GenerateResource.cache
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.csproj.CoreCompileInputs.cache
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.exe
+E:\Programming\2course\Graphics\LastLab\LastLab\obj\Debug\LastLab.pdb
